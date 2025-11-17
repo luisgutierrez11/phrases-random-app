@@ -49,11 +49,12 @@ Permite cambiar manualmente las frases, copiarlas al portapapeles o activar un c
 
 ### Dashboard principal
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./assets/dashboard.png)
+![Dashboard](./assets/dashboard2.png)
 
 ### Vista móvil
 
-![Mobile](./screenshots/mobile-dashboard.png)
+![Mobile](./assets/mobile-dashboard.png)
 
 ---
 
